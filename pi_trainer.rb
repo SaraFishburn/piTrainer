@@ -60,7 +60,7 @@ end
 
 def start_game
   puts 'Welcome to PI Trainer!'
-  puts 'How many digits would you like to start with?:'
+  puts 'How many decimal places would you like to start with?:'
   limit = [gets.to_i, 1].max
   puts "Let's play!"
   sleep(1)
