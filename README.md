@@ -8,4 +8,4 @@ to enter the number of digits after the decimal they would like to start the gam
 ![pi trainer game screenshot](pi_trainer-screenshot.png)
 
 As i'm learning Ruby, I decided to make this into an exercise. 
-Future plans include translating this to Javascript, giving it a nice front end, and deploying :)
+Currently translating this to Javascript to eventually give it a nice front end, and deploy :)
